@@ -49,8 +49,9 @@ Figure 02  Encoder 8 * 3
 **PROGRAM**
 
 
-### Developed by: VINISHRAJ R
-### RegisterNumber: 212223230243
+### Developed by: K.R.HASHISH VIDYA SAGAR
+### RegisterNumber: 212222230047
+
 
 ```
 module ex05(y0,y1,y2,y3,y4,y5,y6,y7,a,b,c);
